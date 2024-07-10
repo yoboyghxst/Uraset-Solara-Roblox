@@ -10,7 +10,7 @@
                                  \|_________|                 
                                                               
                   FILE IS OBFUSCATED, DO NOT BYPASS
- LOADSTRING: loadstring(game:HttpGet("https://raw.githubusercontent.com/yoboyghxst/Uraset-Solara-Roblox/main/main.lua")()
+ LOADSTRING: loadstring(game:HttpGet("https://raw.githubusercontent.com/yoboyghxst/Uraset-Solara-Roblox/main/main.lua"))()
 
 ]]
 
