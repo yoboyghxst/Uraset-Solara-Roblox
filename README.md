@@ -12,5 +12,5 @@ IF YOUR EXECUTOR'S UNC IS VERY LOW, SOME FUNCTIONS MAY NOT WORK (including ESP).
 # Here's the loadstring:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yoboyghxst/Uraset-Solara-Roblox/main/main.lua")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yoboyghxst/Uraset-Solara-Roblox/main/main.lua"))()
 ```
