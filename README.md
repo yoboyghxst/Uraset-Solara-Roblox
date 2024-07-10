@@ -12,3 +12,9 @@ IF YOUR EXECUTOR'S UNC IS VERY LOW, SOME FUNCTIONS MAY NOT WORK (including ESP).
 
 Uraset Original is another script that you can see in my github that is made specifically for core executors/emulators for example Vega X, Evon, Wave, Arceus X and etc... It has ONLY 4 functions BUT it's really only made to display arsenal hubs
 SO if you want to use URASET AS A HUB, Use URASET SOLARA. But if you're on an emulator, run Uraset ORIGINAL then THUNDEDR CLIENT; one of the best hubs for arsenal.
+
+# Here's the loadstring:
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yoboyghxst/Uraset-Solara-Roblox/main/main.lua")()
+```
